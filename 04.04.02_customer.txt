@@ -1,0 +1,6 @@
+123456	Sammi	Chowdhury	S	F
+341900	Julia	Chuy		S	T
+230001	Manuel	Rodrigues	M	T
+200100	Delroy	Winfred		M	T
+300200	Hamsa	Sayed		S	F
+290303	Abbott	Stan		M	T
